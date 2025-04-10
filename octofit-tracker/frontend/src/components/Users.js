@@ -1,5 +1,8 @@
 import React from 'react';
 
+const API_ENDPOINT = 'https://fantastic-happiness-5g75v5vgqg7cpqq-8000.app.github.dev/api/users';
+// Use API_ENDPOINT in your fetch calls or other logic
+
 const Users = () => {
   return (
     <div className="container mt-4">
