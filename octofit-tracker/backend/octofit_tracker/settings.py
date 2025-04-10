@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure--b)9t7*9w12p2ro1p=hfnlu$(bvw9mi%qoxxdy)su$j$y+rj@u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'fantastic-happiness-5g75v5vgqg7cpqq-8000.app.github.dev', 'localhost']
 
 
 # Application definition
@@ -139,3 +139,5 @@ TEMPLATES = [
         },
     },
 ]
+
+ROOT_URLCONF = 'octofit_tracker.urls'
