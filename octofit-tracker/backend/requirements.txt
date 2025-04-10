@@ -1,2 +1,2 @@
 # Updated to Django 4.1 as per the latest requirement
-Django>=4.1,<4.2
+Django==4.1
