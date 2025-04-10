@@ -1,3 +1,2 @@
-# Backend dependencies for OctoFit Tracker
-Django>=3.2,<4.0
-pymongo>=3.12,<4.0
+# Updated to Django 4.1 as per the latest requirement
+Django>=4.1,<4.2
